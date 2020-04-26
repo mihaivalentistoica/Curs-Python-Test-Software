@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c8793e-6343-47e9-8148-c7774d75da0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1b4KdHp5ihPdBumDVVzoVzaGBTk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../02-test-suites" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="01-unittest" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="01-unittest" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests for exercise_03.TestDatabaseInterface.test_get_record">
+    <configuration name="Nosetests for example_01.TestBuiltins" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;example_01.TestBuiltins&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for example_01.TestBuiltins.test_instances" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;example_01.TestBuiltins.test_instances&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for exercise_03.TestDatabaseInterface" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;exercise_03.TestDatabaseInterface&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for exercise_03.TestDatabaseInterface.test_get_record" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;exercise_03.TestDatabaseInterface.test_get_record&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for exercise_03.TestDatabaseInterface.test_record_removal" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;exercise_03.TestDatabaseInterface.test_record_removal&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in bin" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="01-unittest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Mihai\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests in bin" />
+      <item itemvalue="Python tests.Nosetests for example_01.TestBuiltins" />
+      <item itemvalue="Python tests.Nosetests for example_01.TestBuiltins.test_instances" />
+      <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface" />
+      <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface.test_record_removal" />
+      <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface.test_get_record" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface.test_get_record" />
+        <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface" />
+        <item itemvalue="Python tests.Nosetests for exercise_03.TestDatabaseInterface.test_record_removal" />
+        <item itemvalue="Python tests.Nosetests for example_01.TestBuiltins" />
+        <item itemvalue="Python tests.Nosetests for example_01.TestBuiltins.test_instances" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c8793e-6343-47e9-8148-c7774d75da0b" name="Default Changelist" comment="" />
+      <created>1587886011368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587886011368</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1104" y="178" key="#Python" timestamp="1587887050814">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="178" key="#Python/0.0.1920.1040@0.0.1920.1040" timestamp="1587887050814" />
+    <state x="828" y="189" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587883772418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="189" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587883772418" />
+    <state x="694" y="281" key="EnvironmentVariablesDialog" timestamp="1587883355345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="281" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587883355345" />
+    <state x="1359" y="275" key="FileChooserDialogImpl" timestamp="1587887818868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1359" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587887818868" />
+    <state width="741" height="335" key="GridCell.Tab.0.bottom" timestamp="1587892018576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="741" height="335" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587892018576" />
+    <state width="741" height="335" key="GridCell.Tab.0.center" timestamp="1587892018576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="741" height="335" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587892018576" />
+    <state width="741" height="335" key="GridCell.Tab.0.left" timestamp="1587892018576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="741" height="335" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587892018576" />
+    <state width="741" height="335" key="GridCell.Tab.0.right" timestamp="1587892018576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="741" height="335" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587892018576" />
+    <state x="922" y="266" key="SettingsEditor" timestamp="1587883470866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="266" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587883470866" />
+  </component>
+</project>
